@@ -1,4 +1,6 @@
 # Elevator System – Low Level Design (LLD) Practice
+<img width="900" height="680" alt="image" src="https://github.com/user-attachments/assets/7bfc0213-cdce-4aa0-9626-2eac97881d11" />
+<img width="897" height="676" alt="image" src="https://github.com/user-attachments/assets/455bf51f-45bc-4a2d-b570-387da2bc8648" />
 
 ## Overview
 This project is an **offline elevator system simulator** built as part of my **Low Level Design (LLD) practice**.  
